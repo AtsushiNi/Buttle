@@ -4,7 +4,8 @@
 ```
 git clone https://github.com/AtsushiNi/Buttle.git
 ```
-3. VSCodeで作ったフォルダに入って実行
+3. VSCodeで「ファイル」→「開く(or 'open...')」→さっき作ったフォルダの中のButtleを選択
+4. javaを実行
 
 # Buttleプロジェクトの概要
     Hero: 複数
