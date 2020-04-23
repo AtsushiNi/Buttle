@@ -1,3 +1,11 @@
+# 使い方
+1. 適当なフォルダを作って, ターミナルでそこに入る
+2. 以下のコードを入力
+```
+git clone https://github.com/AtsushiNi/Buttle.git
+```
+3. VSCodeで作ったフォルダに入って実行
+
 # Buttleプロジェクトの概要
     Hero: 複数
     Enemy: 複数
@@ -25,7 +33,6 @@
 - 攻撃する(attackメソッド)
 - 攻撃をうける(receiveAttackメソッド)
 
-####Heroクラス
-####Enemyクラス
-Characterクラスを継承
-全てのメソッドをオーバーライド
+#### Heroクラス, Enemyクラス
+- Characterクラスを継承
+- 全てのメソッドをオーバーライド
